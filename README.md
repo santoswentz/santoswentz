@@ -27,7 +27,7 @@ Sou apaixonado por **tecnologia, inovação** e **criação de soluções inteli
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=santoswentz&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santoswentz&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santoswentz&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
@@ -39,4 +39,5 @@ Sou apaixonado por **tecnologia, inovação** e **criação de soluções inteli
 ---
 
 > *"Desenvolver não é apenas escrever código, é criar experiências que fazem a diferença."*
+
 
