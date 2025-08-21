@@ -1,4 +1,4 @@
-<!-- Banner ou imagem de destaque -->
+<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=180&section=header&text=Eduardo%20Wentz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # 👋 Olá, eu sou o Eduardo Wentz  
@@ -9,17 +9,17 @@
 
 ---
 
-## 🚀 Sobre Mim  
-Sou estudante de **Engenharia de Software** na **FSG**, com formação técnica em:  
-- **Desenvolvimento Web**  
-- **Desenvolvimento de Aplicativos**  
+## 🚀 Sobre Mim
+Estudante de **Engenharia de Software** na **FSG**, com formação técnica em:
+- **Desenvolvimento Web**
+- **Desenvolvimento de Aplicativos**
 
 Ambos os cursos realizados pelo **Senac RS**.  
-Tenho paixão por tecnologia, inovação e criar soluções que impactam positivamente usuários.
+Apaixonado por **tecnologia, inovação** e criar soluções úteis para problemas reais.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 - **Frontend:** HTML5, CSS3, JavaScript, React, Expo  
 - **Backend:** PHP, Laravel, Node.js  
 - **Banco de Dados:** MySQL, PostgreSQL  
@@ -28,16 +28,14 @@ Tenho paixão por tecnologia, inovação e criar soluções que impactam positiv
 ---
 
 ## 📊 Estatísticas GitHub
-> ⚠️ Para incluir repositórios privados, configure seu token (PAT) no [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) com `count_private=true`.
+![Estatísticas do GitHub](https://santoswentz.vercel.app/api?username=santoswentz&show_icons=true&theme=tokyonight&count_private=true)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=santoswentz&show_icons=true&theme=tokyonight&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santoswentz&layout=compact&theme=tokyonight&count_private=true)
+![Linguagens mais usadas](https://santoswentz.vercel.app/api/top-langs/?username=santoswentz&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
-## 🚀 Projetos em Destaque 
-- [API REST com React Native e Laravel](https://github.com/santoswentz/API-REST-com-React-Native-e-Laravel)  
+## 🚀 Projeto em Destaque
+[![Readme Card](https://santoswentz.vercel.app/api/pin/?username=santoswentz&repo=dev&theme=tokyonight)](https://github.com/santoswentz/dev)
 
 ---
 
