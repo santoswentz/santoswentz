@@ -1,7 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=180&section=header&text=Eduardo%20Wentz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# 👋 Olá, eu sou o Eduardo Wentz  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoswentz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santoswentz)
@@ -51,3 +50,4 @@ Apaixonado por **tecnologia, inovação** e criar soluções úteis para problem
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63,200:0f0c29&height=120&section=footer"/>
+
