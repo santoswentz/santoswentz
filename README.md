@@ -14,15 +14,14 @@ Estudante de **Engenharia de Software** na **FSG**, com formação técnica em:
 - **Desenvolvimento de Aplicativos**
 
 Ambos os cursos realizados pelo **Senac RS**.  
-Apaixonado por **tecnologia, inovação** e criar soluções úteis para problemas reais.
+Foco em meus projetos possuirem **Segurança, Otimização**.
 
 ---
 
 ## 🛠️ Tecnologias
-- **Frontend:** HTML5, CSS3, JavaScript, React, Expo  
+- **Frontend:** HTML5, CSS3, JavaScript, React   
 - **Backend:** PHP, Laravel, Node.js  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Git & GitHub, Docker, VSCode, Figma  
+- **Banco de Dados:** MySQL, SQLite  
 
 ---
 
@@ -50,4 +49,5 @@ Apaixonado por **tecnologia, inovação** e criar soluções úteis para problem
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63,200:0f0c29&height=120&section=footer"/>
+
 
