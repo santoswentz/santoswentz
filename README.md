@@ -41,13 +41,9 @@ Foco em meus projetos possuirem **Segurança, Otimização**.
 - [LinkedIn](https://www.linkedin.com/in/santoswentz)  
 - [GitHub](https://github.com/santoswentz)  
 - ✉️ **wentz.dev@gmail.com**  
-
----
-
-> *"Desenvolver é transformar ideias em soluções que fazem a diferença."*
-
----
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63,200:0f0c29&height=120&section=footer"/>
+
 
 
