@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <h1> Tecnologias que domino: </h1>
+  <h2> Tecnologias que domino: </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -44,5 +44,6 @@
  
 
 ###
+
 
 
