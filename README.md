@@ -1,8 +1,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=180&section=header&text=Eduardo%20Wentz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santoswentz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santoswentz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&size_weight=0.5&count_weight=0.5" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
@@ -44,6 +43,7 @@
  
 
 ###
+
 
 
 
