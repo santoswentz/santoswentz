@@ -1,13 +1,14 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=180&section=header&text=Eduardo%20Wentz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<div align="left"> 
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santoswentz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <h1> Tecnologias que domino: </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -23,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/eduardowentz.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -43,4 +44,5 @@
  
 
 ###
+
 
