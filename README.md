@@ -1,49 +1,47 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=180&section=header&text=Eduardo%20Wentz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santoswentz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santoswentz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoswentz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santoswentz)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wentz.dev@gmail.com)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+</div>
 
-## 🚀 Sobre Mim
-Estudante de **Engenharia de Software** na **FSG**, com formação técnica em:
-- **Desenvolvimento Web**
-- **Desenvolvimento de Aplicativos**
+###
 
-Ambos os cursos realizados pelo **Senac RS**.  
-Foco em meus projetos possuirem **Segurança, Otimização**.
+<div align="left">
+  <a href="https://www.instagram.com/eduardowentz.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="wentz.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/santoswentz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+</div>
 
----
+###
 
-## 🛠️ Tecnologias
-- **Frontend:** HTML5, CSS3, JavaScript, React   
-- **Backend:** PHP, Laravel, Node.js  
-- **Banco de Dados:** MySQL, SQLite  
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/santoswentz/santoswentz/output/snake.svg" alt="Snake animation" />
 
-## 📊 Estatísticas GitHub
-![Estatísticas do GitHub](https://santoswentz.vercel.app/api?username=santoswentz&show_icons=true&theme=tokyonight&count_private=true)
-
-![Linguagens mais usadas](https://santoswentz.vercel.app/api/top-langs/?username=santoswentz&layout=compact&theme=tokyonight&count_private=true)
-
----
-
-## 🚀 Projeto em Destaque
-[![Readme Card](https://santoswentz.vercel.app/api/pin/?username=santoswentz&repo=dev&theme=tokyonight)](https://github.com/santoswentz/dev)
-
----
-
-## 🌐 Vamos Conectar?
-- [LinkedIn](https://www.linkedin.com/in/santoswentz)  
-- [GitHub](https://github.com/santoswentz)  
-- ✉️ **wentz.dev@gmail.com**  
- 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63,200:0f0c29&height=120&section=footer"/>
-
-
-
+###
